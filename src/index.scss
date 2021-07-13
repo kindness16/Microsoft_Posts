@@ -1,0 +1,14 @@
+#navbar{
+    background-color: #f4f4f4;
+    display: grid;
+    padding: 15px;
+    line-height: 45px;
+    i{
+        font-weight: 200;
+    }
+    router-link, a{
+        color: black;
+        font-size: 18px;
+        text-decoration: none;
+    }
+}
